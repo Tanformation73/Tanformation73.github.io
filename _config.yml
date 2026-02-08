@@ -16,9 +16,8 @@ lin:
   avatar_path: assets/images/avatar.jpg
 
   # generate social links
-  social_links:
-    twitter: jekyllrb
-    github:  jekyll
+  social_links
+    github:  Tanformation73
     medium:  jekyll
     rss: rss
     dribbble: jekyll
